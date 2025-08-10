@@ -5,7 +5,9 @@ Status
 - Phase 1: Completed
 - Phase 2: Completed
 - Phase 3: Completed
-- Phase 4: In Progress
+- Phase 4: Completed
+- Phase 5: In Progress
+- Phase 6: Pending
 
 Description
 This project analyzes 12 months of bike trip data to identify differences between casual riders and annual members, with the goal of recommending strategies to increase memberships.
@@ -27,7 +29,7 @@ Phase 3: Data Cleaning
 - Cleaned dataset saved locally for further analysis
 
 Planned Deliverables
-- Data Cleaning & Preparation 
-- Descriptive Analysis
-- Visualizations & Dashboards
-- Final Report with Recommendations
+- Data Cleaning & Preparation ✅
+- Descriptive Analysis ✅
+- Visualizations & Dashboards (Phase 5)
+- Final Report with Recommendations (Phase 6)
