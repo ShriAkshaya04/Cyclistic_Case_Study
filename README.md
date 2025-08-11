@@ -74,8 +74,8 @@ Outputs:
 - All visuals stored in `visuals/`
 
  Planned Deliverables
-- Data Cleaning & Preparation ✅
-- Descriptive Analysis ✅
-- Visualizations & Dashboards ✅
-- Final Report with Recommendations ✅
+- Data Cleaning & Preparation 
+- Descriptive Analysis 
+- Visualizations & Dashboards 
+- Final Report with Recommendations 
 
