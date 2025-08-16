@@ -13,9 +13,9 @@ Description
 This project analyzes 12 months of bike trip data to identify differences between casual riders and annual members, with the goal of recommending strategies to increase memberships.
 
 Tools Used
-- Excel
-- SQL / Python (pandas, matplotlib, seaborn)
-- Power BI / Tableau
+- Python (pandas, matplotlib, seaborn)
+- Google Colab
+- Microsoft Word (for documentation)
 
 About the Dataset
 The dataset is provided by Divvy (Chicago’s bike-share program) and contains anonymized trip-level data, including ride type, timestamps, stations, and user type.
